@@ -1,0 +1,6 @@
+README.md
+setup.py
+practical_college.egg-info/PKG-INFO
+practical_college.egg-info/SOURCES.txt
+practical_college.egg-info/dependency_links.txt
+practical_college.egg-info/top_level.txt
